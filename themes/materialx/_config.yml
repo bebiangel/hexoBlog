@@ -272,3 +272,6 @@ search:
 # Less渲染
 less:
   compress: true
+
+#Google
+google_analytics_key: UA-145117498-1
