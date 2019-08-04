@@ -82,45 +82,38 @@ cover:
 
 # 桌面端导航栏菜单
 menu_desktop:
-  - name: 示例
+  - name: 전체
     icon: fas fa-grin
     url: /
-  - name: 分类
+  - name: 프론트
     icon: fas fa-folder-open
-    url: blog/categories/
+    url: /categories/프론트/
     rel: nofollow
-  - name: 标签
-    icon: fas fa-hashtag
-    url: blog/tags/
-    rel: nofollow
-  - name: 归档
+  # - name: 标签
+  #   icon: fas fa-hashtag
+  #   url: blog/tags/
+  #   rel: nofollow
+  - name: 스터디
     icon: fas fa-archive
-    url: blog/archives/
+    url: /categories/스터디/
     rel: nofollow
 
 # 手机端导航菜单（从右上角的按钮点击展开）
 menu_mobile:
-  - name: 近期文章
-    icon: fas fa-clock
+  - name: 전체
+    icon: fas fa-grin
     url: /
-  - name: 文章归档
+  - name: 프론트
+    icon: fas fa-folder-open
+    url: /categories/프론트/
+    rel: nofollow
+  # - name: 标签
+  #   icon: fas fa-hashtag
+  #   url: blog/tags/
+  #   rel: nofollow
+  - name: 스터디
     icon: fas fa-archive
-    url: blog/archives/
-    rel: nofollow
-  - name: 开源项目
-    icon: fas fa-code-branch
-    url: projects/
-  - name: 我的友链
-    icon: fas fa-link
-    url: friends/
-    rel: nofollow
-  - name: 主题文档
-    icon: fas fa-book
-    url: https://xaoxuu.com/wiki/material-x/
-    rel: nofollow
-  - name: 关于小站
-    icon: fas fa-info-circle
-    url: about/
+    url: /categories/스터디/
     rel: nofollow
 
 # 默认的meta信息，文章中没有配置则按照这里的配置来显示，设置为false则不显示
