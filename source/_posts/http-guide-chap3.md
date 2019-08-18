@@ -1,6 +1,6 @@
 ---
 title: http-guide-chap3
-date: 2019-08-18 16:06:08
+date: 2019-08-18 12:06:08
 tags: [HTTP, 스터디]
 categories: ["스터디"]
 ---
