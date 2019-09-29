@@ -2,7 +2,7 @@
 title: HTTP 완벽가이드 5장
 date: 2019-09-08 15:36:59
 tags: [HTTP, 스터디]
-categories: ["스터디"]
+categories: [스터디]
 ---
 # 5장 웹서버
 
