@@ -1,5 +1,5 @@
 ---
-title: http-guide-chap8
+title: HTTP 완벽가이드 8장
 date: 2019-10-13 13:37:35
 tags: [HTTP, 스터디]
 categories: [스터디]
