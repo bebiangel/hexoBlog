@@ -1,5 +1,5 @@
 ---
-title: http-guide-chap13
+title: HTTP 완벽가이드 13장
 date: 2019-11-24 18:49:28
 tags: [HTTP, 스터디]
 categories: [스터디]
