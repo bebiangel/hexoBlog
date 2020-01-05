@@ -1,3 +1,9 @@
+---
+title: HTTP 완벽가이드 15장
+date: 2020-01-05 15:10:50
+tags: [HTTP, 스터디]
+categories: [스터디]
+---
 # 15장 엔터티와 인코딩
 
 > 목표: 엔터티 및 그와 연관된 엔터티 헤더들이 콘텐츠를 나르기 위해 하는 일들을 알아본다.
@@ -8,7 +14,8 @@
 - HTTP 엔터티는 메시지의 실질적인 **`화물`**이다.
 - 엔터티 헤더는 18자(Content-Length:18)의 플레인 텍스트 문서를 의미한다.
 
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6e521ec2-c2ea-4aef-821a-6692c5c0c804/_2020-01-05__2.48.23.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6e521ec2-c2ea-4aef-821a-6692c5c0c804/_2020-01-05__2.48.23.png)
+    ![](/images/http-guide-chap15_1.png)
+
 
     **`메시지 엔터티는 엔터티 헤더와 엔터티 본문으로 이루어진다!`**
 
@@ -107,7 +114,7 @@
 
 - 콘텐츠 인코딩된 메시지는 단지 메시지의 엔터티 부분만 인코딩한다.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/40c076b4-a290-46bc-8ab1-8284c5915d91/_2020-01-05__3.27.20.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/40c076b4-a290-46bc-8ab1-8284c5915d91/_2020-01-05__3.27.20.png)
+![](/images/http-guide-chap15_2.png)
 
 ### 6.1 청크 인코딩
 
@@ -117,7 +124,7 @@
 
 **청크 인코딩된 메시지의 구조**
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a94ea717-0985-403c-803a-f4e23b99f856/_2020-01-05__3.50.35_1.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a94ea717-0985-403c-803a-f4e23b99f856/_2020-01-05__3.50.35_1.png)
+![](/images/http-guide-chap15_3.png)
 
 ### 6.2 전송 인코딩 규칙
 
@@ -140,6 +147,6 @@
 
 - HTTP 클라이언트는 받다가 실패한 엔터티를 일부 혹은 범위로 요청함으로써 다운로드를 중단된 시점에서 재개할 수 있다.
 
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/14bd4937-134c-4a5c-a3ce-39d001c5a8bf/_2020-01-05__4.09.10.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/14bd4937-134c-4a5c-a3ce-39d001c5a8bf/_2020-01-05__4.09.10.png)
+    ![](/images/http-guide-chap15_4.png)
 
 ## 9. 델타 인코딩s
