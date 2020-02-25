@@ -3,6 +3,7 @@ title: HTTP 완벽가이드 12장
 date: 2019-11-24 18:49:17
 tags: [HTTP, 스터디]
 categories: [스터디]
+toc: true
 ---
 # 12장 기본인증
 

@@ -3,6 +3,7 @@ title: HTTP 완벽가이드 16장
 date: 2020-01-13 22:33:41
 tags: [HTTP, 스터디]
 categories: [스터디]
+toc: true
 ---
 # 16장 국제화
 

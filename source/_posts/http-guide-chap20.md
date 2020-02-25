@@ -3,6 +3,7 @@ title: HTTP 완벽가이드 20장
 date: 2020-02-10 19:55:55
 tags: [HTTP, 스터디]
 categories: [스터디]
+toc: true
 ---
 # 20장 리다이렉션과 부하 균형
 

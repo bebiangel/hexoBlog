@@ -3,6 +3,7 @@ title: HTTP 완벽가이드 15장
 date: 2020-01-05 15:10:50
 tags: [HTTP, 스터디]
 categories: [스터디]
+toc: true
 ---
 # 15장 엔터티와 인코딩
 

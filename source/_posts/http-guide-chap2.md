@@ -2,7 +2,8 @@
 title: HTTP 완벽가이드 2장
 date: 2019-08-11 13:48:16
 tags: [HTTP, 스터디]
-categories: ["스터디"]
+categories: [스터디]
+toc: true
 ---
 # 2장 URL과 리소스
 

@@ -2,7 +2,8 @@
 title: HTTP 완벽가이드 3장
 date: 2019-08-18 12:06:08
 tags: [HTTP, 스터디]
-categories: ["스터디"]
+categories: [스터디]
+toc: true
 ---
 # 3장 HTTP 메시지
 

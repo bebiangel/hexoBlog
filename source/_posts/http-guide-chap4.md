@@ -2,7 +2,8 @@
 title: HTTP 완벽가이드 4장
 date: 2019-08-25 15:54:07
 tags: [HTTP, 스터디]
-categories: ["스터디"]
+categories: [스터디]
+toc: true
 ---
 # 4장 커넥션 관리
 

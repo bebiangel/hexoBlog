@@ -3,6 +3,8 @@ title: HTTP 완벽가이드 21장
 date: 2020-02-23 12:37:07
 tags: [HTTP, 스터디]
 categories: [스터디]
+toc: true
+disqusId: jeusHan
 ---
 # 21장 로깅과 사용 추적
 

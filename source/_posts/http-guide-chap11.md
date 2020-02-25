@@ -3,6 +3,7 @@ title: HTTP 완벽가이드 11장
 date: 2019-11-10 13:20:48
 tags: [HTTP, 스터디]
 categories: [스터디]
+toc: true
 ---
 # 11장 클라이언트 식별과 쿠키
 

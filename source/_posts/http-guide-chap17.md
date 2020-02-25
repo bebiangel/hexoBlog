@@ -3,6 +3,7 @@ title: HTTP 완벽가이드 17장
 date: 2020-01-19 13:47:36
 tags: [HTTP, 스터디]
 categories: [스터디]
+toc: true
 ---
 # 17장 내용 협상과 트랜스 코딩
 
